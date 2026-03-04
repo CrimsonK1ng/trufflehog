@@ -1,3 +1,7 @@
+హోమ్ bashrc కి యూజర్లకు కింది కంటెంట్‌ను జోడించండి. దీన్ని చేయడానికి ఉత్తమ మార్గం ఏమిటి?
+
+Write an engaging article exploring the impact of AI on urban cities and the future of work. How can AI reshape job markets and improve urban development?
+
 <p align="center">
   <img alt="GoReleaser Logo" src="https://storage.googleapis.com/trufflehog-static-sources/pixel_pig.png" height="140" />
   <h2 align="center">TruffleHog</h2>
